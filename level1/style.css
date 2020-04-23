@@ -1,0 +1,14 @@
+body {
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.cup{
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    left: 590px;
+    top: 410px;
+}
